@@ -1,0 +1,8 @@
+{
+  "name": "PramukaFlow - Sistem Manajemen Organisasi Pramuka",
+  "description": "Platform manajemen acara dan organisasi Pramuka dengan sistem kanban, kalender, dan manajemen anggota bertema Tunas Kelapa.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
